@@ -6,7 +6,7 @@
 - :speaking_head: Soy nativo en español, speak quite good english, und auch ein bisschen Deutsch (Ich lerne :smile: ) 
 - :scroll: I'm currently working at [**lengoo GmbH**](https://lengoo.com)
 - ⚙️ I use daily: `.ts`, `.java`, `.js`, `.php`
-- 🌍 I'm mostly active within **Stackoverflow**
+- 🌍 I'm mostly active within **Stackoverflow** or **Twitter**
 - 💬 Ping me about **development**, **architecture**, **NodeJS**, **Javascript**, **Typescript**
 - :postbox: Reach me: [twitter.com/bretanac93](https://twitter.com/bretanac93)
 - :camera: I'm also a huge photography enthusiast, check some of my pictures: [www.instagram.com/bretanac.93](https://www.instagram.com/bretanac.93/)
