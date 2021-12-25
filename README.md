@@ -5,7 +5,7 @@
 - :cuba: I'm originally from Cuba.
 - :speaking_head: Soy nativo en español, speak quite good english, und auch ein bisschen Deutsch (Ich lerne :smile: ) 
 - :scroll: I'm currently working at [**HelloFresh SE**](https://hellofresh.com)
-- ⚙️ I use daily: `.go`, `.kt`, `.java`, `.php`, `.{j|t}s`
+- ⚙️ I use daily: `.go` and `.kt`
 - 🌍 I'm mostly active within **Stackoverflow** or **Twitter**
 - :postbox: Reach me: [twitter.com/bretanac93](https://twitter.com/bretanac93)
 - :camera: I'm also a huge photography enthusiast, check some of my pictures: [www.instagram.com/bretanac.93](https://www.instagram.com/bretanac.93/)
