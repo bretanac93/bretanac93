@@ -4,7 +4,7 @@
 
 - :cuba: I'm originally from Cuba.
 - :speaking_head: Soy nativo en español, speak quite good english, und auch ein bisschen Deutsch (Ich lerne :smile: ) 
-- :scroll: I'm currently working at [**HelloFresh SE**](https://hellofresh.com)
+- :scroll: I'm currently working at [**SumUp**](https://www.sumup.com/en-us/)
 - ⚙️ I use daily: `.go` and `.kt`
 - 🌍 I'm mostly active within **Stackoverflow** or **Twitter**
 - :postbox: Reach me: [twitter.com/bretanac93](https://twitter.com/bretanac93)
