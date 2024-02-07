@@ -7,7 +7,7 @@
 - :scroll: I'm currently working at [**SumUp**](https://www.sumup.com/en-us/)
 - ⚙️ I use daily: `.go` and `.kt`
 - 🌍 I'm mostly active within **Stackoverflow** or **Twitter**
-- :postbox: Reach me: [twitter.com/bretanac93](https://twitter.com/bretanac93)
+- :postbox: Reach out [@bretanac93](https://x.com/bretanac93)
 - :camera: I'm also a huge photography enthusiast, check some of my pictures: [www.instagram.com/bretanac.93](https://www.instagram.com/bretanac.93/)
 - ⚡️ Fun fact: I love to play videogames as one of my hobbies, I had plenty of time back when I was a student, but almost no game to play, now I've got tons of games over time, and don't have time to play them :sweat_smile:
 
