@@ -4,9 +4,7 @@
 
 - :cuba: I'm originally from Cuba.
 - :speaking_head: Soy nativo en español, speak decent english, und auch ein bisschen Deutsch (Ich lerne :smile: ) 
-- :scroll: I'm currently employed at [**SumUp**](https://www.sumup.com/en-us/)
-- ⚙️ Writing `.go` daily.
-- 🌍 I'm mostly active on **X**
-- :postbox: Reach out [@bretanac93](https://x.com/bretanac93)
-- :camera: I'm also a huge photography enthusiast, check some of my pictures: [www.instagram.com/bretanac.93](https://www.instagram.com/bretanac.93/)
+- :scroll: Building something fresh these days. Formerly [**SumUp**](https://www.sumup.com/en-us/), [HelloFresh](https://www.hellofresh.com/), [Lengoo](https://www.lengoo.com/)
+- ⚙️ Writing `.go`, and `.py` daily.
+- 🌍 I'm mostly active on **X** as [@bretanac93](https://x.com/bretanac93)
 
