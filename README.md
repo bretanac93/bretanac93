@@ -1,9 +1,7 @@
-### Hi there, I'm Cesar 👋
+### Hey, I'm Cesar 👋
 
-#### I'm a Software Engineer :computer: working in Berlin, Germany :de:
+Software engineer in Berlin 🇩🇪, by way of Cuba 🇨🇺.
 
-- :cuba: I'm originally from Cuba.
-- :scroll: Currently @ [TradeRepublic](https://traderepublic.com/en-de). Formerly [**SumUp**](https://www.sumup.com/en-us/), [HelloFresh](https://www.hellofresh.com/), [Lengoo](https://www.lengoo.com/)
-- 🤖 Passionate about AI, ML, and this new world of LLMs.
-- 🌍 I'm most active on **X** as [@bretanac93](https://x.com/bretanac93)
-
+- 💼 Building at [Trade Republic](https://traderepublic.com/en-de). Before: [SumUp](https://www.sumup.com/), [HelloFresh](https://www.hellofresh.com/), [Lengoo](https://www.lengoo.com/)
+- 🤖 Currently nerding out on agentic development: AI agents that write, test and ship code
+- 💬 Say hi on X: [@bretanac93](https://x.com/bretanac93)
